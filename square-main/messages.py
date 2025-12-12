@@ -1,3 +1,6 @@
 HUD_SCORE = "Счёт: {}"
-HUD_INFO = "WASD / стрелки — двигаться. Esc — выход."
-WINDOW_TITLE = "Сборщик яблок (pygame)"
+HUD_LENGTH = "Длина: {}"
+HUD_INFO = "Стрелки — менять направление. R — рестарт. ESC — выход."
+WINDOW_TITLE = "Змейка (Snake)"
+GAME_OVER_TEXT = "ИГРА ОКОНЧЕНА! Счёт: {}"
+RESTART_TEXT = "Нажми R для новой игры"
